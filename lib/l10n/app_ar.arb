@@ -1,0 +1,27 @@
+{
+  "appTitle": "قائمه المذكرات",
+  "settingsAppbar": "الاعدادات",
+  "doneButton": "تم",
+  "editButton":"تعديل",
+  "deleteButton": "حذف",
+  "language":"اللغه",
+  "english":"الانجليزيه",
+  "arabic":"العربيه",
+  "lightmode":"light",
+  "darkmode":"dark",
+  "modelabel":"mode",
+  "taskfound":"لا يوجد مذكرات",
+  "addTask":"اضافه مذكره جديده",
+  "title":"ادخل العنوان",
+  "content":"ادخل المحتوي",
+  "dueData":"اختر التاريخ",
+  "saveButton":"حفظ",
+  "editNote":"تعديل المذكره",
+  "signin":"الدخول",
+  "signup":"التسجيل",
+  "email":"البريد الالكتروني",
+  "password":"كلمه المرور",
+  "haveAccount":"بالفعل لدي حساب",
+  "donthaveAccount":"لا يوجد لدي حساب"
+
+}

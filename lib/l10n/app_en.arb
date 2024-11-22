@@ -1,0 +1,27 @@
+{
+"appTitle": "ToDo-List",
+"settingsAppbar": "Settings",
+"doneButton": "Done",
+"editButton":"Edit",
+"deleteButton": "Delete",
+"language":"Language",
+"english":"English",
+"arabic":"Arabic",
+  "lightmode":"light",
+  "darkmode":"dark",
+  "modelabel":"mode",
+  "taskfound":"No tasks available",
+  "addTask":"Add New Task",
+  "title":"Enter your title",
+  "content":"Enter content",
+  "dueData":"Select due date",
+  "saveButton":"save",
+  "editNote":"Edit Note",
+  "signin":"Signin",
+  "signup":"SignUp",
+  "email":"Email",
+  "password":"Password",
+  "haveAccount":"Already have an account",
+  "donthaveAccount":"Don't have an account"
+
+}
